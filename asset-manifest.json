@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sagar04singh/sgfourthapp.git/static/css/main.6d9b618f.chunk.css",
+    "main.js": "/sagar04singh/sgfourthapp.git/static/js/main.9d39433d.chunk.js",
+    "main.js.map": "/sagar04singh/sgfourthapp.git/static/js/main.9d39433d.chunk.js.map",
+    "runtime-main.js": "/sagar04singh/sgfourthapp.git/static/js/runtime-main.8c092a09.js",
+    "runtime-main.js.map": "/sagar04singh/sgfourthapp.git/static/js/runtime-main.8c092a09.js.map",
+    "static/css/2.325dfaf0.chunk.css": "/sagar04singh/sgfourthapp.git/static/css/2.325dfaf0.chunk.css",
+    "static/js/2.e38d87bc.chunk.js": "/sagar04singh/sgfourthapp.git/static/js/2.e38d87bc.chunk.js",
+    "static/js/2.e38d87bc.chunk.js.map": "/sagar04singh/sgfourthapp.git/static/js/2.e38d87bc.chunk.js.map",
+    "index.html": "/sagar04singh/sgfourthapp.git/index.html",
+    "static/css/2.325dfaf0.chunk.css.map": "/sagar04singh/sgfourthapp.git/static/css/2.325dfaf0.chunk.css.map",
+    "static/css/main.6d9b618f.chunk.css.map": "/sagar04singh/sgfourthapp.git/static/css/main.6d9b618f.chunk.css.map",
+    "static/js/2.e38d87bc.chunk.js.LICENSE.txt": "/sagar04singh/sgfourthapp.git/static/js/2.e38d87bc.chunk.js.LICENSE.txt",
+    "static/media/img0.f4d17973.jpg": "/sagar04singh/sgfourthapp.git/static/media/img0.f4d17973.jpg",
+    "static/media/img20.a6ddbea9.png": "/sagar04singh/sgfourthapp.git/static/media/img20.a6ddbea9.png",
+    "static/media/index.css": "/sagar04singh/sgfourthapp.git/static/media/img21.665a06e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c092a09.js",
+    "static/css/2.325dfaf0.chunk.css",
+    "static/js/2.e38d87bc.chunk.js",
+    "static/css/main.6d9b618f.chunk.css",
+    "static/js/main.9d39433d.chunk.js"
+  ]
+}
