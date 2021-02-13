@@ -12,6 +12,9 @@ body {
   
   
 }
+*{
+  box-sizing: border-box;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -29,6 +32,7 @@ h1{
   color:white;
   text-align: center;
   border-top:4px solid white;
+  height:auto;
 }
 .home_main img{
   border:2px solid black;
@@ -74,5 +78,10 @@ background-color: white;
   border:2px solid black;
   text-align: center;
   margin-top: 5px;
+
+}
+
+.home_main pr{
+  height: 400px;
 
 }

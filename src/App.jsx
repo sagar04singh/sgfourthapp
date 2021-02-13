@@ -34,11 +34,11 @@ the neccessary skills in order to become a good in web developer field.</p>
 <div className="container home_main">
 <div className="row">
 
-<div className="col-md-6 mt-5 st">
+<div className="col-md-12 mt-5 st">
 <img src={img2} style={{width:"450px"}}/>
 
 </div>
-<div className="col-md-6  home_sk">
+<div className="col-md-12  home_sk">
 <h2>SKILLS</h2>
     <ul>
         <li>HTML-<span className="dot">95%</span></li>
@@ -53,15 +53,41 @@ the neccessary skills in order to become a good in web developer field.</p>
 </div>
 </div>
 {/* 3 */}
-<div className="container home_main">
+<div className="container home_main pr">
 <div className="row">
-<div className="col-md-12 mt-5">
+<div className="col-md-12  mt-5">
 <h2>PROJECTS</h2>
   <a href="https://sagar04singh.github.io/sgthirdapp/">NOTES APP USING PROPS AND USESTATE METHOD(React.js)</a>
+
 </div>
 
 </div>
 </div>
+
+
+{/* 4 */}
+<div className="container home_main">
+<div className="row">
+<div className="col-md-12 mt-5">
+<h2>Courses</h2>
+ <p>Has done 3 month web developer course from trcatch classes Borivali (Mumbai)</p>
+</div>
+
+</div>
+</div>
+
+{/* 5 */}
+<div className="container home_main">
+<div className="row">
+<div className="col-md-12 mt-5">
+<h2>Experience</h2>
+ <p>Fresher</p>
+</div>
+
+</div>
+</div>
+
+
 
 
 </>
