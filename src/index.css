@@ -6,15 +6,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("./projectimages/img21.jpg");
-  background-position: center;
-  
-  
   
 }
-*{
-  box-sizing: border-box;
-}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -22,6 +16,11 @@ code {
 }
 
 h1{
+  text-align: center;
+  background-color: lightgreen;
+  border-radius: 50px;
+}
+h2{
   text-align: center;
   background-color: lightgreen;
   border-radius: 50px;
@@ -80,8 +79,7 @@ background-color: white;
   margin-top: 5px;
 
 }
-
-.home_main pr{
-  height: 400px;
-
+.home_sk li{
+  text-align: center;
+  
 }

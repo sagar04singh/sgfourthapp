@@ -12,7 +12,7 @@ const App=()=>{
         <>
 <h1>PORTFOLIO</h1> 
 
-<div className="container home_main">
+<div className="container-fluid home_main">
 <div className="row">
 <div className="col-md-6 mt-5">
 <h2>Sagar Singh</h2>
@@ -31,15 +31,15 @@ the neccessary skills in order to become a good in web developer field.</p>
 </div>
 
 {/* 2 */}
-<div className="container home_main">
+<div className="container-fluid home_main mt-5">
 <div className="row">
-
 <div className="col-md-12 mt-5 st">
+<h2>SKILLS</h2>
 <img src={img2} style={{width:"450px"}}/>
 
 </div>
 <div className="col-md-12  home_sk">
-<h2>SKILLS</h2>
+
     <ul>
         <li>HTML-<span className="dot">95%</span></li>
         <li>CSS-<span className="dot">85%</span></li>
@@ -53,12 +53,12 @@ the neccessary skills in order to become a good in web developer field.</p>
 </div>
 </div>
 {/* 3 */}
-<div className="container home_main pr">
+<div className="container-fluid home_main pr mt-5">
 <div className="row">
 <div className="col-md-12  mt-5">
 <h2>PROJECTS</h2>
-  <a href="https://sagar04singh.github.io/sgthirdapp/">NOTES APP USING PROPS AND USESTATE METHOD(React.js)</a>
-
+ <a href="https://sagar04singh.github.io/sgthirdapp/">NOTES APP USING PROPS AND USESTATE METHOD(React.js)</a>
+ <p>CLICK TO VIEW</p>
 </div>
 
 </div>
@@ -66,18 +66,18 @@ the neccessary skills in order to become a good in web developer field.</p>
 
 
 {/* 4 */}
-<div className="container home_main">
+<div className="container-fluid home_main">
 <div className="row">
 <div className="col-md-12 mt-5">
 <h2>Courses</h2>
- <p>Has done 3 month web developer course from trcatch classes Borivali (Mumbai)</p>
+ <p>Has done 3 month web developer course from trycatch classes Borivali (Mumbai)</p>
 </div>
 
 </div>
 </div>
 
 {/* 5 */}
-<div className="container home_main">
+<div className="container-fluid home_main">
 <div className="row">
 <div className="col-md-12 mt-5">
 <h2>Experience</h2>
