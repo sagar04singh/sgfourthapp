@@ -64,18 +64,6 @@ the neccessary skills in order to become a good in web developer field.</p>
 </div>
 </div>
 
-
-{/* 4 */}
-<div className="container-fluid home_main">
-<div className="row">
-<div className="col-md-12 mt-5">
-<h2>Courses</h2>
- <p>Has done 3 month web developer course from trycatch classes Borivali (Mumbai)</p>
-</div>
-
-</div>
-</div>
-
 {/* 5 */}
 <div className="container-fluid home_main">
 <div className="row">
