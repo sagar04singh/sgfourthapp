@@ -58,7 +58,6 @@ the neccessary skills in order to become a good in web developer field.</p>
 <div className="col-md-12  mt-5">
 <h2>PROJECTS</h2>
  <a href="https://sagar04singh.github.io/sgthirdapp/">NOTES APP USING PROPS AND USESTATE METHOD(React.js)</a>
- <p>CLICK TO VIEW</p>
 </div>
 
 </div>
@@ -74,7 +73,7 @@ the neccessary skills in order to become a good in web developer field.</p>
 
 </div>
 </div>
-
+<h1>Thank You</h1>
 
 
 
